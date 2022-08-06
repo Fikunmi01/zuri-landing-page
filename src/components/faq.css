@@ -1,0 +1,99 @@
+.faq {
+    position: relative;
+    padding-left: 7.5rem;
+    padding-right: 7.5rem;
+    width: 88%;
+    margin: auto;
+}
+
+.faq-title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.faq-title img {
+    width: 12%;
+    margin-left: 13rem;
+    position: relative;
+    top: 7rem;
+}
+
+.faq-title p {
+    font-family: 'Roboto',sans-serif;
+    font-size: 2.4rem;
+    color: #E7332B;
+}
+
+.faq-title h2 {
+    padding-top: 1rem;
+    font-family: 'Graphik', sans-serif;
+    font-weight: 600;
+    margin-bottom: 10rem;
+    font-size: 4rem;
+}
+
+
+.faq-box {
+    border: 0.15rem solid rgba(71,44,111,.43);
+    background-color: #FFFDF5;
+    padding: 3rem;
+    width: 83%;
+    color: #333333;
+    margin: auto;
+}
+
+.faq-bold {
+    font-family: 'Graphik', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.uil-plus {
+    font-size: 2.5rem;
+    cursor: pointer;
+}
+
+.faq-light {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.6rem;
+    padding-top: 1.5rem;
+}
+
+.faq-cta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-family: 'Graphik', sans-serif;
+    justify-content: center;
+    padding-top: 7.5rem;
+    padding-bottom: 5rem;
+    /* margin-bottom: 5rem; */
+    color: #333333;
+    font-size: 1.8rem;
+    border-bottom: 0.1rem solid #888888;
+
+}
+
+.faq-cta button {
+    background-color: #E7332B;
+    border: #FFFFFF;
+    padding: 1rem 2.5rem;
+    border-radius: 3rem;
+    font-size: 1.6rem;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-weight: 300;
+}
+
+.uil-twitter {
+    font-size: 2rem;
+    margin-left: -0.5rem;
+}

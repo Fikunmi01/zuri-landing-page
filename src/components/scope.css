@@ -1,0 +1,169 @@
+.scope-div {
+    padding-top: 8rem;
+    background-color: #FFFDF5;
+
+}
+
+.scope-head p {
+    font-family: 'Graphik', sans-serif;
+    padding-right: 7.5rem;
+    padding-left: 7.5rem;
+    font-size: 2rem;
+    padding-bottom: 1rem;
+    color: #E7332B;
+}
+
+.scope-head h2 {
+    font-family: 'Graphik', sans-serif;
+    font-size: 4rem;
+    color: #1B1A20;
+    width: 45%;
+    padding-left: 7.5rem;
+    line-height: 1.3;
+    font-weight: 600;
+}
+
+.scope-head img {
+    width: 16rem;
+    display: flex;
+    margin: auto;
+}
+
+.scope-card-div {
+    display: flex;
+    flex-direction: column;
+    margin-right: 1rem;
+
+}
+
+.scope {
+    margin-bottom: 7.5rem;
+    height: 65rem;
+    columns: 3;
+    background: linear-gradient(180deg,rgba(255,244,240,0),#fff4f0 17.19%,#fff4f0 84.37%,rgba(255,244,240,0))!important;
+    padding-left: 7.5rem;
+    padding-right: 7.5rem;
+
+}
+
+.scope-card {
+    height: 24rem;
+    border: 0.1rem solid #FFFFFF;
+    background-color: #FFFFFF;
+    margin-top: 2rem;
+    box-shadow: 0 11px 22px rgb(231 51 43 / 10%);
+    border-radius: 3rem;
+    width: 99%;
+    padding-top: 5rem;
+
+}
+
+.scope-card h3 {
+    padding-left: 5rem;
+    font-size: 2rem;
+    font-family: 'Graphik', sans-serif;
+    font-weight: 600;
+}
+
+.scope-card div {
+    padding-left: 4.5rem;
+    padding-top: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.scope-card div img {
+    margin-right: 0.5rem;
+}
+
+.scope-card p {
+    padding-left: 4.5rem;
+}
+
+.none {
+    display: none;
+}
+
+.html {
+    width: 3.5rem;
+}
+
+.css {
+    width: 3.5rem;
+}
+
+.javascript {
+    width: 4.6rem;
+}
+
+.php {
+    width: 6.2rem;
+}
+
+.python {
+    width: 5rem;
+}
+
+.adobe {
+    width: 5rem;
+}
+
+.figma {
+    width: 7rem;
+}
+
+.ubuntu {
+    width: 10rem;
+}
+
+.bash {
+    width: 7.5rem;
+}
+
+.amazon {
+    width: 6rem;
+}
+
+.laravel {
+    width: 6rem;
+}
+
+.react {
+    width: 7.5rem;
+}
+
+.django {
+    width: 7.5rem;
+}
+
+.stack-description {
+    font-size: 1.4rem;
+    padding-right: 7.5rem;
+    line-height: 1.2;
+    color: #514949;
+    font-family: 'Graphik', sans-serif;
+    padding-top: 2rem;
+}
+
+.stack-enroll-btn {
+    background-color: #E7332B;
+    border: #FFFFFF;
+    padding: 1rem 2.5rem;
+    border-radius: 2rem;
+    font-size: 1.8rem;
+    cursor: pointer;
+    font-family: 'Graphik', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    display: flex;
+    margin: auto;
+    box-shadow: rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 12%) 0px 1px 5px 0px;
+}
+
+
+.course-btn {
+    padding-bottom: 10rem;
+    border-bottom: 0.1rem solid #888888;
+    margin: auto;
+    width: 90%;
+}

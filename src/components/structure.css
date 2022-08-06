@@ -1,0 +1,111 @@
+.structure {
+    padding-left: 7.5rem;
+    position: relative;
+    padding-top: 15rem;
+    padding-right: 7.5rem;
+}
+
+.structure-head {
+    display: flex;
+    justify-content: center;
+    gap: 6rem;
+
+}
+
+.structure-head-text {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.structure-title {
+    color: #E7332B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.4rem;
+}
+
+.structure-head img {
+    width: 10%;
+}
+
+.structure-head-text h2 {
+    font-weight: 600;
+    padding-top: 1rem;
+    color: #1B1A20;
+    font-size: 4rem;
+    font-family: 'Graphik',sans-serif;
+}
+
+.structure-head-text .description {
+    font-size: 1.8rem;
+    color: #514949;
+    padding-top: 1rem;
+    font-family: 'Graphik', sans-serif;
+}
+
+.structure-head .arrow {
+    margin-top: -18rem;
+
+}
+
+.structure-card {
+    display: flex;
+    width: 83%;
+    margin: auto;
+    padding-top: 5rem;
+    gap: 4rem;
+    /* justify-content: space-between; */
+}
+
+.structure-card-one {
+    padding-left: 5.5rem;
+    padding-top: 8rem;
+    border-radius: 6rem;
+    background-color:  #1B1A20;
+    box-shadow: 0 31px 60px rgba(231,51,43,.2);
+    color: #FFFFFF;
+    width: 50%;
+    height: 70rem;
+    padding-bottom: 10rem;
+    line-height: 1.8;
+}
+
+.structure-card-one h2 {
+    font-size: 2.8rem;
+    font-family: 'Graphik', sans-serif;
+    font-weight: 600;
+}
+
+.structure-card-one h3 {
+    font-size: 1.8rem;
+    font-family: 'Graphik', sans-serif;
+    font-weight: 600;
+}
+
+.structure-card-one li {
+    font-size: 1.6rem;
+    width: 80%;
+    font-family: 'Graphik', sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+.structure-card-one p {
+    font-size: 1.6rem;
+    font-family: 'Graphik', sans-serif;
+    padding-bottom: 1rem;
+    width: 80%;
+}
+
+.digital {
+    width: 40%;
+    margin-left: 20rem;
+}
+
+.analog {
+    width: 30%;
+    margin-left: 24rem;
+    margin-top: -17rem;
+    margin-bottom: 12rem;
+}

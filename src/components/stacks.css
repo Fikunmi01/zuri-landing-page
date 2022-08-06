@@ -1,0 +1,91 @@
+.stack-div {
+    background-color: #E7332B;
+    display: flex;
+    padding-top: 13rem;
+    position: relative;
+    color: #FFFFFF;
+    padding-left: 7.5rem;
+    padding-right: 7.5rem;
+}
+
+.flex-img {
+    width: 60rem;
+}
+
+.stackp-one {
+    font-size: 1.8rem;
+    font-family: 'Graphik', sans-serif;
+}
+
+.stack-flex-one h2 {
+    font-size: 4rem;
+    width: 75%;
+}
+
+.stack-arrow {
+    position: absolute;
+    margin-top: -8rem;
+    left: 35rem;
+    width: 10rem;
+}
+
+.stackp-two {
+    padding-top: 4rem;
+    font-size: 1.8rem;
+    font-family: 'Graphik', sans-serif;
+    width: 34rem;
+    line-height: 1.5;
+}
+
+.stack-enroll {
+    background-color: #FFFFFF;
+    border: #FFFFFF;
+    padding: 1rem 2.5rem;
+    border-radius: 2rem;
+    font-size: 1.8rem;
+    cursor: pointer;
+    font-family: 'Graphik', sans-serif;
+    margin-top: 2rem;
+    color: #E7332B;
+    font-weight: 400;
+    margin-bottom: 5rem;
+    box-shadow: rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 12%) 0px 1px 5px 0px;
+}
+
+.stack-benefits {
+    padding-bottom: 2rem;
+    display: flex;
+    gap: 2rem;
+}
+
+ .stack-benefits div {
+    display: flex;
+    align-items: center;
+    padding: 1rem 2rem;
+    border-radius: 4rem;
+    width: 30%;
+    gap: 1rem;
+    border: 0.25rem solid #FFFFFF;
+    cursor: not-allowed;
+}
+
+.stack-benefits div img {
+    width: 25%;
+    margin-left: -0.5rem;
+}
+
+.stack-benefits button {
+    background-color: inherit;
+    cursor: not-allowed;
+    border: none;
+    color: #FFFFFF;
+    font-size: 1.8rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bottom-section-img {
+    width: 20%;
+    margin-left: -3rem;
+    margin-bottom: 4rem;
+    padding-top: 5rem;
+}

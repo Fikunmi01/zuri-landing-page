@@ -1,0 +1,53 @@
+.new-industry-flex {
+    display: flex;
+    margin-top: -3rem;
+    position: relative;
+    justify-content:space-between;
+    z-index: 1;
+    background-color: #FFFDF5;
+    position: fixed;
+    width: 100%;
+}
+
+.new-industry-flex ul {
+    list-style: none;
+    padding-bottom: 5rem;
+}
+
+.new-industry-flex li {
+    display: inline-block;
+    font-size: 1.8rem;
+    font-family: 'Graphik', sans-serif;
+    color: #585757;
+    padding-right: 5rem;
+}
+
+.new-industry-flex .logo {
+    width: 30.8rem;
+    cursor: pointer;
+    padding-left: 6.3rem;
+    padding-top: 2.4rem;
+
+}
+
+.enroll-btn-img {
+    width: 22%;
+    background-color: #E7332B;
+    padding: 1rem;
+    top: 5.5rem;
+    border-radius: 54%;
+    position: relative;
+
+}
+
+.enroll-btn p {
+    padding-left: 6rem;
+    margin-left: 2rem;
+    border: 0.1rem solid #E7332B;
+    background-color: #E7332B;
+    color: #FFFFFF;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    width: 50%;
+    border-radius: 2rem;
+}

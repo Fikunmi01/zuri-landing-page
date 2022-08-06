@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zuri-landing-page/static/css/main.41daf166.css",
+    "main.js": "/zuri-landing-page/static/js/main.f64cc315.js",
+    "static/js/787.28cb0dcd.chunk.js": "/zuri-landing-page/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/zuri-landing-page/index.html",
+    "main.41daf166.css.map": "/zuri-landing-page/static/css/main.41daf166.css.map",
+    "main.f64cc315.js.map": "/zuri-landing-page/static/js/main.f64cc315.js.map",
+    "787.28cb0dcd.chunk.js.map": "/zuri-landing-page/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41daf166.css",
+    "static/js/main.f64cc315.js"
+  ]
+}
